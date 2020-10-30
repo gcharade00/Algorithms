@@ -1,1 +1,3 @@
-# Algorithms
+# ALGORITHMS
+# HACKTOBER FEST
+# FREE SWAG
